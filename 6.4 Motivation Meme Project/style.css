@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-color: black;
   }
@@ -19,4 +20,27 @@ body {
     border: 5px solid white;
     width: 100%;
   }
+=======
+body {
+    background-color: black;
+  }
+  h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+  }
+  
+  .poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+  }
+  
+  .motivation-img {
+    border: 5px solid white;
+    width: 100%;
+  }
+>>>>>>> 526a1ba51e2a07a8e1c85534509e8868cacc64ba
   
